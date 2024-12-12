@@ -1,0 +1,1 @@
+The solution involves removing the explicit margin from the last item. Let the 'space-between' justify-content handle all spacing.  .container {width: 100%; display: flex; justify-content: space-between;}.item {width: 200px;} 
